@@ -1,0 +1,15 @@
+C:\Repository\Sem9D270423\Ex004Task\obj\Debug\net6.0\Ex004Task.csproj.AssemblyReference.cache
+C:\Repository\Sem9D270423\Ex004Task\obj\Debug\net6.0\Ex004Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repository\Sem9D270423\Ex004Task\obj\Debug\net6.0\Ex004Task.AssemblyInfoInputs.cache
+C:\Repository\Sem9D270423\Ex004Task\obj\Debug\net6.0\Ex004Task.AssemblyInfo.cs
+C:\Repository\Sem9D270423\Ex004Task\obj\Debug\net6.0\Ex004Task.csproj.CoreCompileInputs.cache
+C:\Repository\Sem9D270423\Ex004Task\bin\Debug\net6.0\Ex004Task.exe
+C:\Repository\Sem9D270423\Ex004Task\bin\Debug\net6.0\Ex004Task.deps.json
+C:\Repository\Sem9D270423\Ex004Task\bin\Debug\net6.0\Ex004Task.runtimeconfig.json
+C:\Repository\Sem9D270423\Ex004Task\bin\Debug\net6.0\Ex004Task.dll
+C:\Repository\Sem9D270423\Ex004Task\bin\Debug\net6.0\Ex004Task.pdb
+C:\Repository\Sem9D270423\Ex004Task\obj\Debug\net6.0\Ex004Task.dll
+C:\Repository\Sem9D270423\Ex004Task\obj\Debug\net6.0\refint\Ex004Task.dll
+C:\Repository\Sem9D270423\Ex004Task\obj\Debug\net6.0\Ex004Task.pdb
+C:\Repository\Sem9D270423\Ex004Task\obj\Debug\net6.0\Ex004Task.genruntimeconfig.cache
+C:\Repository\Sem9D270423\Ex004Task\obj\Debug\net6.0\ref\Ex004Task.dll
